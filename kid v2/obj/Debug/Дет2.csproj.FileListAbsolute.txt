@@ -1,0 +1,11 @@
+F:\Git hub\Новая папка\Дет2\bin\Debug\Дет2.exe.config
+F:\Git hub\Новая папка\Дет2\bin\Debug\Дет2.exe
+F:\Git hub\Новая папка\Дет2\bin\Debug\Дет2.pdb
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.csproj.AssemblyReference.cache
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.csproj.SuggestedBindingRedirects.cache
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.Form1.resources
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.Properties.Resources.resources
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.csproj.GenerateResource.cache
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.csproj.CoreCompileInputs.cache
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.exe
+F:\Git hub\Новая папка\Дет2\obj\Debug\Дет2.pdb
